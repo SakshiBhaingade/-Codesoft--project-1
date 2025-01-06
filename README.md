@@ -1,1 +1,2 @@
-# -Codesoft--project-1
+#Codesoft-project-1
+In this I making a simple Calculator.
